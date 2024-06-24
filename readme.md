@@ -1,5 +1,5 @@
-# Django Authentication App with Simple JWT
-#Currently work in progress and not finished
+# Django Authentication App with Simple JWT (Work In Progress)
+
 
 This Django project is an authentication app that utilizes the Simple JWT library for token-based authentication. The app provides various functionalities for user authentication and management.
 
