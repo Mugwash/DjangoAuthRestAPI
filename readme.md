@@ -11,5 +11,5 @@ This Django project is an authentication app that utilizes the Simple JWT librar
 - Password Reset: Users can request a password reset if they forget their password. They will receive an email with instructions to reset their password.
 - Change Password: Authenticated users can change their password by providing their current password and a new password.
 - User Profile: Users can view and update their profile information, such as their name, email address, and profile picture.
-
+-edited for testing reasons
 Please refer to the `views.py` file for more detailed information on the implemented views and their functionalities.
